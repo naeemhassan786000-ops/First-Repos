@@ -218,5 +218,4 @@ int main() {
 	} while (option != 0);
 	cout << "=== GOOD TO GO ===\n";
 	delete[]list;
-	return 0;
 }
